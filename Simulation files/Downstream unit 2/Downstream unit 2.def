@@ -1,0 +1,10 @@
+INPUT: Downstream unit 2.inm
+MODNAME: apmain
+RUNID: Downstream unit 2
+NEW_RUNID: Downstream unit 2
+OLD_RUNID: Downstream unit 2
+PDF: Downstream unit 2.appdf
+USERNAME: Rajdeep
+XMOD: C:\Program Files\AspenTech\Aspen Plus V12.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _4940xxu.ads
